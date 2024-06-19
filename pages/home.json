@@ -1,0 +1,36 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "test-comp",
+      "nodeName": "test-comp",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "HOCow1"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "id": "66727782d65a20b66b2b7d9f",
+      "expressions": []
+    }
+  ]
+}
